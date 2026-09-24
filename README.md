@@ -24,20 +24,10 @@ I also recently shipped an **AI Resume Analyzer** on Laravel 13 using the Larave
 
 ### 🧰 Tech Stack
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td align="center" width="25%"><b>Backend</b></td>
-    <td align="center" width="25%"><b>Frontend</b></td>
-    <td align="center" width="25%"><b>Database</b></td>
-    <td align="center" width="25%"><b>Tools & Others</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,electron" /></td>
-  </tr>
-</table>
+*   **Backend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" align="middle" />
+*   **Frontend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs" align="middle" />
+*   **Database:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" align="middle" />
+*   **Tools & Others:** &nbsp; <img src="https://skillicons.dev/icons?i=docker,git,github,electron" align="middle" />
 
 ---
 
