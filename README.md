@@ -24,10 +24,26 @@ I also recently shipped an **AI Resume Analyzer** on Laravel 13 using the Larave
 
 ### 🧰 Tech Stack
 
-*   **Frontend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" align="middle" /> <a href="https://inertiajs.com/"><img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" align="middle" height="48" alt="Inertia.js" /></a>
-*   **Backend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php,laravel" align="middle" />
-*   **Database:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql" align="middle" />
-*   **Tools & Others:** &nbsp; <img src="https://skillicons.dev/icons?i=postman,git,github" align="middle" />
+*   **Frontend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" align="middle" /> 
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS" align="middle" /> 
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" align="middle" /> 
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind" align="middle" /> 
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" align="middle" /> 
+<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" align="middle" /> 
+<a href="https://inertiajs.com/"><img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" title="Inertia.js" alt="Inertia.js" align="middle" height="48" /></a>
+
+*   **Backend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" align="middle" /> 
+<img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" align="middle" />
+
+*   **Database:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" align="middle" />
+
+*   **Tools & Others:** &nbsp; 
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" align="middle" /> 
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" align="middle" /> 
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" align="middle" />
 
 ---
 
