@@ -11,14 +11,14 @@
 </div>
 
 ---
+### 👨‍💻 Professional Summary & Current Focus
 
-### 👨‍💻 What I Do
+I am a **Software Engineer** with **1 year of professional experience** architecting and developing scalable, production-grade applications. Specializing in **Laravel/PHP** (Backend) and **React/Next.js** (Frontend), my core focus lies in engineering robust software solutions that drive real business value within the Bangladeshi market.
 
-Software Engineer specializing in practical, production-grade systems — Laravel/PHP on the backend, React up front. My focus is solving real business problems for the Bangladeshi market, not shipping demos.
+**Key Ongoing & Recent Projects:**
 
-Currently building a Universal POS System spanning electronics (with IMEI tracking), weight-based goods, fabric, and footwear retail — offline-first, multi-branch, integrated with bKash/Nagad/Rocket, and compliant with NBR/VAT (Mushak 6.3) reporting.
-
-Also recently shipped an AI Resume Analyzer on Laravel 13 using the Laravel AI SDK — parsing, analyzing, and scoring resumes through a clean, tested API.
+*   **Enterprise Universal POS System:** Currently developing an offline-first, multi-branch Point of Sale ecosystem. Features include comprehensive IMEI tracking for electronics, dynamic weight-based inventory, and seamless integration with local MFS gateways (bKash, Nagad, Rocket) alongside automated NBR/VAT (Mushak 6.3) compliance reporting.
+*   **AI-Driven Resume Analyzer:** Engineered and shipped a scalable resume parsing and scoring engine leveraging Laravel 13 and the Laravel AI SDK, delivered through a fully tested, high-performance API.
 
 ---
 
