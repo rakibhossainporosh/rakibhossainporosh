@@ -1,8 +1,6 @@
 <div align="center">
   <h1>⚡ RAKIB HOSSAIN POROSH</h1>
-  <p><b>Software Engineer · Laravel / PHP · Building for 🇧🇩</b></p>
-
-  <blockquote><code>$ php artisan make:impact</code></blockquote>
+  <p><b>Software Engineer · Laravel / PHP</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/Status-Open_to_Work-238636?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
@@ -26,22 +24,20 @@ I also recently shipped an **AI Resume Analyzer** on Laravel 13 using the Larave
 
 ### 🧰 Tech Stack
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,react,nodejs,postgres,mysql,sqlite,electron,docker,git,github" alt="Skills" />
-  </a>
-</div>
-
----
-
-### 🗂️ Project Log
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🛒 **Panel Seller** | Digital reseller platform, large active user base, integrated payment gateways. | `Laravel` `Fortify` `Socialite` |
-| 🤖 **AI Resume Analyzer** | AI-driven resume parsing & scoring engine, fully tested via API. | `Laravel 13` `PHP 8.3` `Pest` |
-| 🧾 **Universal POS System** | Multi-shop-type POS — IMEI tracking, offline-first, local MFS payments. | `Next.js` `Electron` `PostgreSQL` |
-| 🎓 **SUB Admission System** | Institutional admission management platform. | `Laravel` `PHP` `MySQL` |
+<table style="border: none; width: 100%;">
+  <tr>
+    <td align="center" width="25%"><b>Backend</b></td>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Database</b></td>
+    <td align="center" width="25%"><b>Tools & Others</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,electron" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -72,5 +68,5 @@ I also recently shipped an **AI Resume Analyzer** on Laravel 13 using the Larave
   <a href="https://linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   
   <br/><br/>
-  <i>"Practical software, shipped." 🇧🇩</i>
+  <i>"Practical software, shipped."</i>
 </div>
