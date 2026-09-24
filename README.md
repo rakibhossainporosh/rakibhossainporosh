@@ -1,86 +1,133 @@
-<!-- Sleek Animated Header Image -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=1200" width="100%"/>
+
+<br/>
+
+# ⚡ RAKIB HOSSAIN POROSH
+
+### `Software Engineer` · `Laravel / PHP` · `Building for 🇧🇩`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=%24+php+artisan+make%3Aimpact;Designing+offline-first+POS+systems;Shipping+AI-powered+tools+with+Laravel;Always+optimizing+for+real+users" alt="typing"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/status-open_to_work-success?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/based_in-Bangladesh-orange?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/stack-Laravel_%7C_PHP_%7C_Next.js-blue?style=flat-square&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=rakibhossainporosh&style=flat-square&color=36BCF7&label=views&labelColor=1a1a2e" />
+
 </div>
 
-<!-- Terminal Style Animated Typing -->
+<br/>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 👨‍💻 What I Do
+
+I build **practical, production-grade systems** — mostly Laravel/PHP on the backend, React/Next.js up front — with a strong focus on real businesses in the Bangladeshi market rather than demo-only projects.
+
+Right now I'm deep in a **Universal POS System**: electronics with IMEI tracking, weight-based goods, fabric, and footwear shops — all offline-first, multi-branch, and wired up to bKash/Nagad/Rocket, with NBR/VAT (Mushak 6.3) reporting built in.
+
+I also recently shipped an **AI Resume Analyzer** on Laravel 13 using the Laravel AI SDK — parsing, analyzing, and scoring resumes through a clean tested API.
+
+</td>
+<td width="40%" valign="top">
+
+```php
+<?php
+
+class Rakib extends Engineer
+{
+    protected array $stack = [
+        'backend'  => 'Laravel / PHP',
+        'frontend' => 'Next.js / React',
+        'db'       => 'PostgreSQL',
+        'desktop'  => 'Electron',
+    ];
+
+    public function mission(): string
+    {
+        return 'Ship systems that
+                Bangladeshi shops
+                actually rely on.';
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Architect;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+
+### 🧰 Stack
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nextjs,react,nodejs,postgres,mysql,sqlite,electron,docker,git,github" />
+
 </div>
 
-<div align="center">
-  <p><b>Crafting robust architectures and scalable backend systems.</b></p>
-  
-  <!-- Ultra-clean Flat Square Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-171515?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</div>
+<br/>
 
-<hr/>
+## 🗂️ Project Log
 
-### 👨‍💻 Engineering Profile
+<table width="100%">
+<tr><th align="left" width="30%">Project</th><th align="left" width="50%">Description</th><th align="left" width="20%">Stack</th></tr>
+<tr>
+<td>🛒 <b>Panel Seller</b></td>
+<td>Digital reseller platform, large active user base, integrated payment gateways</td>
+<td><code>Laravel</code> <code>Fortify</code> <code>Socialite</code></td>
+</tr>
+<tr>
+<td>🤖 <b>AI Resume Analyzer</b></td>
+<td>AI-driven resume parsing & scoring engine, fully tested</td>
+<td><code>Laravel 13</code> <code>PHP 8.3</code> <code>Pest</code></td>
+</tr>
+<tr>
+<td>🧾 <b>Universal POS System</b></td>
+<td>Multi-shop-type POS — IMEI tracking, offline-first, local MFS payments</td>
+<td><code>Next.js</code> <code>Electron</code> <code>PostgreSQL</code></td>
+</tr>
+<tr>
+<td>🎓 <b>SUB Admission System</b></td>
+<td>Institutional admission management platform</td>
+<td><code>Laravel</code> <code>PHP</code></td>
+</tr>
+</table>
 
-<!-- Modern Expandable Accordion UI -->
-<details>
-  <summary><b>📖 Expand to read About Me</b></summary>
-  <br/>
-  I am a Software Engineer focused on building high-performance, distributed systems. My expertise lies in backend architecture, microservices, and cloud-native application development. I prioritize clean code, test-driven development, and automated CI/CD pipelines to ensure seamless delivery and zero-downtime deployments.
-</details>
-
-<details>
-  <summary><b>⚙️ Expand to view Tech Stack</b></summary>
-  <br/>
-  <div align="center">
-    <b>Architecture & Languages</b><br/>
-    <img src="https://skillicons.dev/icons?i=ts,go,python,rust,java" /><br/><br/>
-    <b>Cloud, DevOps & CI/CD</b><br/>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux" /><br/><br/>
-    <b>Databases & Message Brokers</b><br/>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
-  </div>
-</details>
-
-<hr/>
-
-### 📊 Real-Time Metrics & Analytics
+<br/>
 
 <div align="center">
-  <!-- WakaTime Live Coding Stats -->
-  <a href="https://wakatime.com">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8" alt="WakaTime Stats" width="48%" />
-  </a>
-  <!-- Clean GitHub Stats -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" width="48%" />
-  </a>
+
+## 📈 Stats
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rakibhossainporosh&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossainporosh&layout=compact&theme=synthwave&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossainporosh&theme=synthwave&hide_border=true" width="70%"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Interactive Animated Contribution Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+
+## 🤝 Connect
+
+<a href="https://github.com/rakibhossainporosh"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!--
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+-->
+
+<br/><br/>
+
+<i>"Practical software, shipped." 🇧🇩</i>
+
 </div>
 
-<hr/>
-
-### 🚀 Highlighted Engineering Work
-
-| Repository & Architecture | System Impact & Scale |
-| :--- | :--- |
-| **[Distributed-Task-Queue](Link)** <br/> `Go` `Redis` `gRPC` | Engineered a fault-tolerant job processing queue capable of handling **1M+ background tasks/day** with <10ms latency. |
-| **[Micro-Ecom-Engine](Link)** <br/> `Node.js` `Kubernetes` `PostgreSQL` | Architected scalable microservices backend for an e-commerce platform, optimizing database queries to support **5k RPS**. |
-
-<br/>
-
-<!-- Footer matching the header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" style="transform: rotate(180deg);" alt="Footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=1200" width="100%"/>
