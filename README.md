@@ -14,11 +14,11 @@
 
 ### 👨‍💻 What I Do
 
-I am a **Software Engineer** with **1 year of professional experience** in building practical, production-grade systems. I work mostly with **Laravel/PHP** on the backend and **React/Next.js** up front — with a strong focus on solving real business problems in the Bangladeshi market rather than just building demo projects.
+Software Engineer specializing in practical, production-grade systems — Laravel/PHP on the backend, React up front. My focus is solving real business problems for the Bangladeshi market, not shipping demos.
 
-Right now I'm deep in a **Universal POS System**: electronics with IMEI tracking, weight-based goods, fabric, and footwear shops — all offline-first, multi-branch, and wired up to bKash/Nagad/Rocket, with NBR/VAT (Mushak 6.3) reporting built in.
+Currently building a Universal POS System spanning electronics (with IMEI tracking), weight-based goods, fabric, and footwear retail — offline-first, multi-branch, integrated with bKash/Nagad/Rocket, and compliant with NBR/VAT (Mushak 6.3) reporting.
 
-I also recently shipped an **AI Resume Analyzer** on Laravel 13 using the Laravel AI SDK — parsing, analyzing, and scoring resumes through a clean, tested API.
+Also recently shipped an AI Resume Analyzer on Laravel 13 using the Laravel AI SDK — parsing, analyzing, and scoring resumes through a clean, tested API.
 
 ---
 
