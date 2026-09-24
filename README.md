@@ -11,9 +11,17 @@
 </div>
 
 ---
-### 👨‍💻 Professional Summary & Current Focus
 
-I build practical, production-ready systems. As a Software Engineer with a strong background in commercial application development, I specialize in Laravel/PHP and React/Next.js to deliver high-performance solutions tailored for real-world businesses.
+### 👨‍💻 About Me
+
+I am a **Software Engineer** specializing in **Laravel / PHP** backend architecture and modern **React / Next.js** frontend engineering. I build scalable, production-grade web applications and enterprise systems with a strong focus on clean architecture and real-world business impact.
+
+I work seamlessly across the full stack — engineering secure REST APIs and robust databases on the backend, while crafting dynamic, user-centric interfaces on the frontend — delivering complete software solutions from system design to production.
+
+- ⚙️ **Backend Architecture:** Architecting highly scalable Laravel applications, robust REST APIs, and optimized database systems. Recent work includes an **AI-Driven Resume Analyzer** leveraging the Laravel AI SDK.
+- 🖥️ **Frontend Engineering:** Creating responsive, interactive web experiences utilizing React, Next.js, Inertia.js, and Tailwind CSS.
+- 💼 **Enterprise Solutions:** Developing complex business tools, currently engineering an offline-first, multi-branch **Universal POS ecosystem** (with IMEI tracking & bKash/Nagad integrations) tailored for the Bangladeshi market.
+- 🚀 **Engineering Standard:** Dedicated to writing clean, maintainable code, test-driven development, and shipping reliable, high-quality products.
 
 ---
 
@@ -40,6 +48,7 @@ I build practical, production-ready systems. As a Software Engineer with a stron
 <br/>
 
 <div align="center">
+  <!-- Added &cache=1 to the URL to force bypass the image caching issue for commits -->
   <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="60%"/>
 </div>
 
