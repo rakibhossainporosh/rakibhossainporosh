@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ RAKIB HOSSAIN POROSH</h1>
+  <h1>RAKIB HOSSAIN POROSH</h1>
   <p><b>Software Engineer · Laravel / PHP</b></p>
 
   <p>
@@ -14,12 +14,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in **Laravel / PHP** backend architecture and modern **React / Next.js** frontend engineering. I build scalable, production-grade web applications and enterprise systems with a strong focus on clean architecture and real-world business impact.
+I am a **Software Engineer** specializing in **Laravel / PHP** backend architecture and modern **React.js** frontend engineering. I build scalable, production-grade web applications and enterprise systems with a strong focus on clean architecture and real-world business impact.
 
 I work seamlessly across the full stack — engineering secure REST APIs and robust databases on the backend, while crafting dynamic, user-centric interfaces on the frontend — delivering complete software solutions from system design to production.
 
 - ⚙️ **Backend Architecture:** Architecting highly scalable Laravel applications, robust REST APIs, and optimized database systems. Recent work includes an **AI-Driven Resume Analyzer** leveraging the Laravel AI SDK.
-- 🖥️ **Frontend Engineering:** Creating responsive, interactive web experiences utilizing React, Next.js, Inertia.js, and Tailwind CSS.
+- 🖥️ **Frontend Engineering:** Creating responsive, interactive web experiences utilizing React, Inertia.js, and Tailwind CSS.
 - 💼 **Enterprise Solutions:** Developing complex business tools, currently engineering an offline-first, multi-branch **Universal POS ecosystem** (with IMEI tracking & bKash/Nagad integrations) tailored for the Bangladeshi market.
 - 🚀 **Engineering Standard:** Dedicated to writing clean, maintainable code, test-driven development, and shipping reliable, high-quality products.
 
@@ -28,7 +28,7 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 ### 🧰 Tech Stack
 
 *   **Frontend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" align="middle" /> <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS" align="middle" /> <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" align="middle" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind" align="middle" /> <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" align="middle" /> <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" align="middle" /> <a href="https://inertiajs.com/"><img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" title="Inertia.js" alt="Inertia.js" align="middle" height="48" /></a>
-*   **Backend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" align="middle" /> <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" align="middle" />
+*   **Backend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" align="middle" /> <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" align="middle" /> <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logoColor=white" title="REST API" alt="REST API" align="middle" height="48" />
 *   **Database:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" align="middle" />
 *   **Tools & Others:** &nbsp; <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" align="middle" /> <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" align="middle" /> <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" align="middle" />
 
