@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ RAKIB HOSSAIN POROSH</h1>
+  <h1>RAKIB HOSSAIN POROSH</h1>
   <p><b>Software Engineer · Laravel / PHP</b></p>
 
   <p>
@@ -24,10 +24,10 @@ I also recently shipped an **AI Resume Analyzer** on Laravel 13 using the Larave
 
 ### 🧰 Tech Stack
 
-*   **Backend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" align="middle" />
-*   **Frontend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs" align="middle" />
-*   **Database:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" align="middle" />
-*   **Tools & Others:** &nbsp; <img src="https://skillicons.dev/icons?i=docker,git,github,electron" align="middle" />
+*   **Frontend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react" align="middle" /> &nbsp; `Inertia.js`
+*   **Backend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php,laravel" align="middle" />
+*   **Database:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql" align="middle" />
+*   **Tools & Others:** &nbsp; <img src="https://skillicons.dev/icons?i=postman,git,github" align="middle" />
 
 ---
 
