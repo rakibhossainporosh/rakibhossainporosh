@@ -14,7 +14,7 @@
 
 ### 👨‍💻 What I Do
 
-I build practical, production-grade systems — mostly **Laravel/PHP** on the backend and **React/Next.js** up front — with a strong focus on real businesses in the Bangladeshi market rather than demo-only projects.
+I am a **Software Engineer** with **1 year of professional experience** in building practical, production-grade systems. I work mostly with **Laravel/PHP** on the backend and **React/Next.js** up front — with a strong focus on solving real business problems in the Bangladeshi market rather than just building demo projects.
 
 Right now I'm deep in a **Universal POS System**: electronics with IMEI tracking, weight-based goods, fabric, and footwear shops — all offline-first, multi-branch, and wired up to bKash/Nagad/Rocket, with NBR/VAT (Mushak 6.3) reporting built in.
 
