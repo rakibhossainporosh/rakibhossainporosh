@@ -45,7 +45,7 @@ I also recently shipped an **AI Resume Analyzer** on Laravel 13 using the Larave
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="60%"/>
 </div>
 
 ---
