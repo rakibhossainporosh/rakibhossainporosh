@@ -61,5 +61,4 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
   <a href="https://linkedin.com/in/rakib-hossain-porosh-812185385"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   
   <br/><br/>
-  <i>"Practical software, shipped."</i>
 </div>
