@@ -1,6 +1,6 @@
 <div align="center">
   <h1>RAKIB HOSSAIN POROSH</h1>
-  <p><b>Software Engineer · Laravel / PHP</b></p>
+  <p><b>Software Engineer</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/Status-Open_to_Work-238636?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
