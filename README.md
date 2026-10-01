@@ -36,14 +36,7 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/rakibhossainporosh">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakibhossainporosh&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=777777" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/rakibhossainporosh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossainporosh&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=777777" alt="Top Languages" width="48%" />
-  </a>
-</div>
+
 
 <br/>
 
