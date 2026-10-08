@@ -1,13 +1,17 @@
 <div align="center">
-  <h1>RAKIB HOSSAIN POROSH</h1>
-  <p><b>Software Engineer</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:36BCF7&height=200&section=header&text=RAKIB%20HOSSAIN%20POROSH&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=36BCF7&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
 
-  <p>
-    <img src="https://img.shields.io/badge/Status-Open_to_Work-238636?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
-    <img src="https://img.shields.io/badge/Based_in-Bangladesh-F78166?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Stack-Laravel_%7C_PHP-3178C6?style=flat-square&logo=php&logoColor=white" alt="Stack" />
-    <img src="https://komarev.com/ghpvc/?username=rakibhossainporosh&style=flat-square&color=36BCF7&label=Profile_Views" alt="Views" />
-  </p>
+  <br/>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=Building+Scalable+Web+Applications;Laravel+%7C+React+%7C+Full+Stack+Engineer;Turning+Ideas+Into+Production+Code" alt="Typing SVG" /></a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Based_in-Bangladesh-F78166?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Stack-Laravel_%7C_PHP-3178C6?style=for-the-badge&logo=php&logoColor=white" alt="Stack" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rakibhossainporosh&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Views" />
 </div>
 
 ---
@@ -34,7 +38,7 @@ I work seamlessly across the full stack engineering secure REST APIs and robust 
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vue" alt="Frontend Skills" />
 </p>
 
-#### ⚙️ Backend
+#### ⚙️ Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Skills" />
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Database Skills" />
