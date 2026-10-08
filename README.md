@@ -37,7 +37,7 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 #### ⚙️ Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Skills" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database Skills" />
 </p>
 
 #### 🛠️ Tools & Others
