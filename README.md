@@ -27,25 +27,29 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 
 ### 🧰 Tech Stack
 
-**Frontend:**
+<div align="center">
+
+#### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" /> <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS" /> <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind" /> <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" /> <a href="https://inertiajs.com/"><img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" title="Inertia.js" alt="Inertia.js" height="48" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" alt="Frontend Skills" />
 </p>
 
-**Backend:**
+#### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" /> <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" /> <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logoColor=white" title="REST API" alt="REST API" height="48" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Skills" />
 </p>
 
-**Database:**
+#### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Skills" />
 </p>
 
-**Tools & Others:**
+#### 🛠️ Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" /> <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux" alt="Tools" />
 </p>
+
+</div>
 
 ---
 
