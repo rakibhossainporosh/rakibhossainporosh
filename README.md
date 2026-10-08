@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Based_in-Bangladesh-F78166?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Stack-Laravel_%7C_PHP-3178C6?style=for-the-badge&logo=php&logoColor=white" alt="Stack" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rakibhossainporosh&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://profile-counter.glitch.me/rakibhossainporosh/count.svg" alt="Views" />
 </div>
 
 ---
