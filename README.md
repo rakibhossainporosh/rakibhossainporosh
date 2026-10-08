@@ -34,10 +34,14 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vue" alt="Frontend Skills" />
 </p>
 
-#### ⚙️ Backend & Database
+#### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Skills" />
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Database Skills" />
+</p>
+
+#### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database Skills" />
 </p>
 
 #### 🛠️ Tools & Others
@@ -52,7 +56,7 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="80%"/>
+  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="100%"/>
 </div>
 
 ---
@@ -64,7 +68,7 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 
   <a href="mailto:rakibhossainporosh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
   <a href="https://linkedin.com/in/rakib-hossain-porosh-812185385"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://github.com/rakibhossainporosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://rakibhossainporosh.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </div>
 
 ---
