@@ -52,7 +52,7 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="80%"/>
 </div>
 
 ---
