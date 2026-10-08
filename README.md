@@ -139,20 +139,6 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakibhossainporosh/rakibhossainporosh/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakibhossainporosh/rakibhossainporosh/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rakibhossainporosh/rakibhossainporosh/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-> 💡 *To enable the snake animation, add a GitHub Action workflow to your profile repo. [Learn how →](https://github.com/Platane/snk)*
-
----
-
 ### 🤝 Connect With Me
 
 <div align="center">
