@@ -37,11 +37,7 @@ I work seamlessly across the full stack engineering secure REST APIs and robust 
 #### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Skills" />
-</p>
-
-#### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Database Skills" />
 </p>
 
 #### 🛠️ Tools & Others
@@ -56,7 +52,7 @@ I work seamlessly across the full stack engineering secure REST APIs and robust 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="80%"/>
 </div>
 
 ---
