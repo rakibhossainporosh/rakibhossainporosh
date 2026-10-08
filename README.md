@@ -31,12 +31,16 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 
 #### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vue" alt="Frontend Skills" />
 </p>
 
-#### ⚙️ Backend & Database
+#### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Skills" />
+</p>
+
+#### 🗄️ Database
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database Skills" />
 </p>
 
@@ -51,13 +55,8 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 
 ### 📈 GitHub Analytics
 
-
-
-<br/>
-
 <div align="center">
-  <!-- Added &cache=1 to the URL to force bypass the image caching issue for commits -->
-  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=rakibhossainporosh&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&cache=1" alt="GitHub Streak" width="100%"/>
 </div>
 
 ---
