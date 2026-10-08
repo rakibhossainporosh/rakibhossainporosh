@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:36BCF7&height=200&section=header&text=RAKIB%20HOSSAIN%20POROSH&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer&descSize=24&descColor=36BCF7&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:36BCF7&height=180&section=header&text=RAKIB%20HOSSAIN%20POROSH&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=36BCF7&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+Scalable+Web+Applications;Laravel+%7C+React+%7C+Full+Stack+Engineer;Turning+Ideas+Into+Production+Code" alt="Typing SVG" /></a>
 
   <br/>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=Building+Scalable+Web+Applications;Laravel+%7C+React+%7C+Full+Stack+Engineer;Turning+Ideas+Into+Production+Code" alt="Typing SVG" /></a>
-
-  <br/><br/>
 
   <img src="https://img.shields.io/badge/Status-Open_to_Work-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Based_in-Bangladesh-F78166?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
