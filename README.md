@@ -27,7 +27,7 @@ I work seamlessly across the full stack — engineering secure REST APIs and rob
 
 ### 🧰 Tech Stack
 
-<div align="center">
+<div align="left">
 
 #### 🎨 Frontend
 <p>
