@@ -16,12 +16,12 @@
 
 I am a **Software Engineer** specializing in **Laravel / PHP** backend architecture and modern **React.js** frontend engineering. I build scalable, production-grade web applications and enterprise systems with a strong focus on clean architecture and real-world business impact.
 
-I work seamlessly across the full stack — engineering secure REST APIs and robust databases on the backend, while crafting dynamic, user-centric interfaces on the frontend — delivering complete software solutions from system design to production.
+I work seamlessly across the full stack engineering secure REST APIs and robust databases on the backend, while crafting dynamic, user-centric interfaces on the frontend delivering complete software solutions from system design to production.
 
 - ⚙️ **Backend Architecture:** Architecting highly scalable Laravel applications, robust REST APIs, and optimized database systems. Recent work includes an **AI-Driven Resume Analyzer** leveraging the Laravel AI SDK.
-- 🖥️ **Frontend Engineering:** Creating responsive, interactive web experiences utilizing React, Inertia.js, and Tailwind CSS.
-- 💼 **Enterprise Solutions:** Developing complex business tools, currently engineering an offline-first, multi-branch **Universal POS ecosystem** (with IMEI tracking & bKash/Nagad integrations) tailored for the Bangladeshi market.
-- 🚀 **Engineering Standard:** Dedicated to writing clean, maintainable code, test-driven development, and shipping reliable, high-quality products.
+- 🖥️ **Frontend Engineering:** Creating responsive, interactive web experiences utilizing React, Inertia.js and Tailwind CSS.
+- 💼 **Enterprise Solutions:** Developing complex business tools, currently engineering an offline-first, multi-branch **Universal POS ecosystem** (with IMEI tracking & bKash/sslcommerz integrations) tailored for the Bangladeshi market.
+- 🚀 **Engineering Standard:** Dedicated to writing clean, maintainable code, test-driven development and shipping reliable, high-quality products.
 
 ---
 
