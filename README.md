@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:36BCF7&height=180&section=header&text=RAKIB%20HOSSAIN%20POROSH&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=36BCF7&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
-
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+Scalable+Web+Applications;Laravel+%7C+React+%7C+Full+Stack+Engineer;Turning+Ideas+Into+Production+Code" alt="Typing SVG" /></a>
-
   <br/>
-
   <img src="https://img.shields.io/badge/Status-Open_to_Work-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Based_in-Bangladesh-F78166?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Stack-Laravel_%7C_PHP-3178C6?style=for-the-badge&logo=php&logoColor=white" alt="Stack" />
@@ -60,9 +57,8 @@ I work seamlessly across the full stack engineering secure REST APIs and robust 
 ---
 
 ### 🤝 Connect With Me
-
 <div align="center">
-  <p><i>I'm always open to interesting conversations, collaboration opportunities, and new connections.</i></p>
+  <p><i>Open for work and collaboration.</i></p>
 
   <a href="mailto:rakibhossainporosh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
   <a href="https://linkedin.com/in/rakib-hossain-porosh-812185385"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
