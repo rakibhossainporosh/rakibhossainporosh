@@ -5,8 +5,8 @@
   <img src="https://img.shields.io/badge/Status-Open_to_Work-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Based_in-Bangladesh-F78166?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Stack-Laravel_%7C_PHP-3178C6?style=for-the-badge&logo=php&logoColor=white" alt="Stack" />
-  <br/>
   <img src="https://visitcount.itsvg.in/api?id=rakibhossainporosh&label=Profile%20Views&color=36BCF7&icon=5" alt="Views" />
+  <br/>
 </div>
 
 ---
