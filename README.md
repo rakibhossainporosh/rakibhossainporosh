@@ -4,7 +4,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Status-Open_to_Work-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Based_in-Bangladesh-F78166?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Stack-Laravel_%7C_PHP-3178C6?style=for-the-badge&logo=php&logoColor=white" alt="Stack" />
+  <img src="https://komarev.com/ghpvc/?username=rakibhossainporosh&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
   <br/>
 </div>
 
