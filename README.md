@@ -18,7 +18,7 @@ I work seamlessly across the full stack engineering secure REST APIs and robust 
 
 - ⚙️ **Backend Architecture:** Architecting highly scalable Laravel applications, robust REST APIs and optimized database systems. Recent work includes an **AI-Driven Resume Analyzer** leveraging the Laravel AI SDK.
 - 🖥️ **Frontend Engineering:** Creating responsive, interactive web experiences utilizing React, Inertia.js, Tailwind CSS and Bootstrap.
-- 💼 **Enterprise Solutions:** Developing complex business tools, currently engineering an offline first, multi-branch **Universal POS ecosystem** (with IMEI tracking & bKash/sslcommerz integrations) tailored for the Bangladeshi market.
+- 💼 **Enterprise Solutions:** Developing complex business tools, currently engineering an offline first, multi branch **Universal POS ecosystem** (with IMEI tracking & bKash/sslcommerz integrations) tailored for the Bangladeshi market.
 - 🚀 **Engineering Standard:** Dedicated to writing clean, maintainable code, test driven development and shipping reliable, high quality products.
 
 ---
