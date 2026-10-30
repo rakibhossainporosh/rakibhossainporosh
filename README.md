@@ -47,7 +47,6 @@ I work seamlessly across the full stack engineering secure REST APIs and robust 
 
 ---
 
-### 📈 GitHub Analytics
 
 ## 📊 GitHub Stats
 
