@@ -59,7 +59,6 @@ I work seamlessly across the full stack engineering secure REST APIs and robust 
 
 ### 🤝 Connect With Me
 <div align="center">
-  <p><i>Open for work and collaboration.</i></p>
 
   <a href="mailto:rakibhossainporosh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
   <a href="https://linkedin.com/in/rakib-hossain-porosh-812185385"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
@@ -69,5 +68,6 @@ I work seamlessly across the full stack engineering secure REST APIs and robust 
 ---
 
 <div align="center">
+  <p><i>Open for work and collaboration.</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=80&section=footer" width="100%" />
 </div>
